@@ -1,0 +1,181 @@
+{
+    "section": [
+  
+      {
+        "id": 1,
+        "name": "Popular Movies"
+      },
+      {
+        "id": 2,
+        "name": "Popular Movies"
+      }
+    ],
+    "movie": [
+      {
+        "id": 1,
+        "name": "Spider-Man: No Way Home",
+        "img": "/images/img/popular-movie-1.jpg",
+        "type": "Action",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 1
+      },
+      {
+        "id": 2,
+        "name": "Jungle Cruise",
+        "img": "/images/img/popular-movie-2.jpg",
+        "type": "Action/Adventure",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 1
+      },
+      {
+        "id": 3,
+        "name": "Loki",
+        "img": "/images/img/popular-movie-3.jpg",
+        "type": "Action",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 1
+      },
+      {
+        "id": 4,
+        "name": "Squid Game",
+        "img": "/images/img/popular-movie-4.jpg",
+        "type": "Action/Drama",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 1
+      },
+      {
+        "id": 5,
+        "name": "The Falcom and the Winter Soldier",
+        "img": "/images/img/popular-movie-5.jpg",
+        "type": "Action",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 1
+      },
+      {
+        "id": 6,
+        "name": "Hawkeye",
+        "img": "/images/img/popular-movie-6.jpg",
+        "type": "Action",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 1
+      },
+      {
+        "id": 7,
+        "name": "Agents of S.H.I.E.L.D.",
+        "img": "/images/img/popular-movie-7.jpg",
+        "type": "Action",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 1
+      },
+      {
+        "id": 8,
+        "name": "The Flash",
+        "img": "/images/img/popular-movie-8.jpg",
+        "type": "Action/Sci-Fi",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 1
+      },
+  
+      {
+        "id": 9,
+        "name": "Jumanji: Welcome to the Jungle",
+        "img": "/images/img/movie-1.jpg",
+        "type": "Action",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 2
+      },
+      {
+        "id": 10,
+        "name": "",
+        "img": "/images/img/movie-2.jpg",
+        "type": "Action/Comedy",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 2
+      },
+      {
+        "id": 11,
+        "name": "Shang-Chi",
+        "img": "/images/img/movie-3.jpg",
+        "type": "Action/Sci-Fi",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 2
+      },
+      {
+        "id": 12,
+        "name": "Eternals",
+        "img": "/images/img/movie-4.jpg",
+        "type": "Action/Sci-Fi",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 2
+      },
+      {
+        "id": 13,
+        "name": "Spectre",
+        "img": "/images/img/movie-6.jpg",
+        "type": "Action",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 2
+      },
+      {
+        "id":14,
+        "name": "Money Heist",
+        "img": "/images/img/movie-6.jpg",
+        "type": "Action/Sci-Fi",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 2
+      },
+      {
+        "id": 15,
+        "name": "The Wolverina",
+        "img": "/images/img/movie-7.jpg",
+        "type": "Action",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 2
+      },
+      {
+        "id": 16,
+        "name": "Jonny English",
+        "img": "/images/img/movie-8.jpg",
+        "type": "Action/Comedy",
+        "score": "9.8",
+        "star": 4,
+        "sectionSeq": 2
+      },
+  
+      {
+        "id": 17,
+        "name": "SOFTWARE DEV",
+        "img": "../images/yt/3.jpg",
+        "like": 100,
+        "star": 3,
+        "movieYear": 2019,
+        "sectionCode": "YT",
+        "sectionSeq": 3
+      },
+      {
+        "id": 18,
+        "name": "SEX LIFE",
+        "img": "../images/yt/4.jpg",
+        "like": 30,
+        "star": 4,
+        "movieYear": 2020,
+        "sectionCode": "YT",
+        "sectionSeq": 3
+      }
+    ]
+  }
