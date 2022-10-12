@@ -16,6 +16,10 @@ export default function MovieSection(){
                 })
         },[]);
 
+        const saveStateValues = (movieName:string, movieId:string)=>{
+            localStorage.setItem("movieName", movieName);
+            localStorage.setItem("movieId", movieId);
+        }
     return (<>
         <section className="movies container" id="movies">
             {/* Heading */}
@@ -31,7 +35,9 @@ export default function MovieSection(){
                         <div className="box-text">
                             <h2 className="box-title">{movie.name}</h2>
                             <span className="movie-type">{movie.type}</span>
-                            <Link to={`/play/${movie.name}`}></Link>
+                            <a href={`/play/${movie.name}`} onClick={()=>saveStateValues(`${movie.name}`, `${movie.id}`)} className="watch-btn play-btn">
+                                <i className='bx bx-right-arrow'></i>
+                            </a>
                         </div>
                     
                     </div>    

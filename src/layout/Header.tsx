@@ -16,7 +16,7 @@ export default function Header(){
                 </div>
                 {/* User */}
                 <a href="#" className="user">
-                    <img src="images/img/user.jpg" alt="" className="user-img"/>
+                    <img src="/images/img/user.jpg" alt="" className="user-img"/>
                 </a>
                 {/* NavBar */}
                 <NavBar/>
