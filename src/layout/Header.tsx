@@ -1,5 +1,5 @@
 import NavBar from "../component/header/NavBar";
-
+import "../css/style.css"
 export default function Header(){
 
     return (
